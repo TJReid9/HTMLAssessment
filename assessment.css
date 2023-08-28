@@ -1,0 +1,36 @@
+.subjectHeader {
+	font-family: sans-serif;
+	color: blue;
+}
+
+#scoreBoard {
+	font-weight: bold;
+	color: red;
+	border: 2px solid blue;
+	content: centered;
+}
+
+#teamRoster {
+	background-image: height="40" src="https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg";
+
+}
+
+#teamRoster ul li {
+	list-style: square;
+
+
+}
+
+.hyperLink:hover {
+	background-color: red;
+}
+
+blockquote {
+	background-color: blue;
+	color: greenyellow;
+}
+
+#checkbox-grid {
+	list-style: none;
+}
+
